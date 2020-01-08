@@ -7,6 +7,7 @@ cache:
 script:
   - cd src/to-do-list
   - npm install -g react-scripts
+  - npm install
   - npm run build
 deploy:
     provider: pages
