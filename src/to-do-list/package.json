@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://szymenn.tododo.github.io",
+  "homepage":"https://szymenn.github.io/ToDoDo-frontend",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
