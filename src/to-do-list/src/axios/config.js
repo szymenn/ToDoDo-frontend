@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { JWT_ID, REFRESH_ID } from '../constants/jwt';
 
-const apiUrl = 'http://localhost:8000'
+const apiUrl = 'https://to-do-do.herokuapp.com/'
 const axiosInstance = axios.create()
 
 axiosInstance.interceptors.response.use((response) => {
