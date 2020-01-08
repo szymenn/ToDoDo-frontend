@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - src/to-do-list/node_modules
+script:
+  - cd src/to-do-list
+  - npm install -g react-scripts
+  - npm install
+  - CI=false npm run build
+deploy:
+    provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_ACCESS_TOKEN  # Set in the settings page of your repository, as a secure variable
+    keep_history: true
+    on:
+      branch: master
