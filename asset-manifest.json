@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/ToDoDo-frontend/static/js/main.39061104.chunk.js",
-    "main.js.map": "/ToDoDo-frontend/static/js/main.39061104.chunk.js.map",
-    "runtime~main.js": "/ToDoDo-frontend/static/js/runtime~main.3689b6b7.js",
-    "runtime~main.js.map": "/ToDoDo-frontend/static/js/runtime~main.3689b6b7.js.map",
-    "static/css/2.266e55a5.chunk.css": "/ToDoDo-frontend/static/css/2.266e55a5.chunk.css",
-    "static/js/2.d9c42e81.chunk.js": "/ToDoDo-frontend/static/js/2.d9c42e81.chunk.js",
-    "static/js/2.d9c42e81.chunk.js.map": "/ToDoDo-frontend/static/js/2.d9c42e81.chunk.js.map",
-    "index.html": "/ToDoDo-frontend/index.html",
-    "precache-manifest.dc43a9cd812cfb737539a57ecf914dbb.js": "/ToDoDo-frontend/precache-manifest.dc43a9cd812cfb737539a57ecf914dbb.js",
-    "service-worker.js": "/ToDoDo-frontend/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/ToDoDo-frontend/static/css/2.266e55a5.chunk.css.map"
+    "main.js": "/static/js/main.39061104.chunk.js",
+    "main.js.map": "/static/js/main.39061104.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d9c42e81.chunk.js": "/static/js/2.d9c42e81.chunk.js",
+    "static/js/2.d9c42e81.chunk.js.map": "/static/js/2.d9c42e81.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f2104ffc4e42bfa314b8aea1b9b799ef.js": "/precache-manifest.f2104ffc4e42bfa314b8aea1b9b799ef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map"
   }
 }
