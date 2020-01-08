@@ -9,7 +9,7 @@ script:
   - npm install -g react-scripts
   - npm install
   - CI=false npm run build
-  - npm run deploy
+  - CI=false npm run deploy
 deploy:
     provider: pages
     skip_cleanup: true
