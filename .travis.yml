@@ -1,9 +1,6 @@
 language: node_js
 node_js:
   - "stable"
-env: 
-  global: 
-    - CI = false
 cache:
   directories:
   - src/to-do-list/node_modules
@@ -11,7 +8,7 @@ script:
   - cd src/to-do-list
   - npm install -g react-scripts
   - npm install
-  - npm run build
+  - CI=false npm run build
 deploy:
     provider: pages
     skip_cleanup: true
