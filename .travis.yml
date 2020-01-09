@@ -10,14 +10,7 @@ script:
   - npm install
   - CI=false npm run build
 deploy:
-    provider: pages
-    skip_cleanup: true
-    github_token: $GITHUB_ACCESS_TOKEN  # Set in the settings page of your repository, as a secure variable
-    keep_history: true
-    on:
-      branch: master
-deploy:
-    provider: pages
+    provider: pages:git
     skip_cleanup: true
     github_token: $GITHUB_ACCESS_TOKEN  # Set in the settings page of your repository, as a secure variable
     keep_history: true
