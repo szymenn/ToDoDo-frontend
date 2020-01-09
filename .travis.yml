@@ -16,4 +16,8 @@ deploy:
     keep_history: true
     local_dir: src/to-do-list
     on:
-      branch: master
+      branches: 
+        only:
+          - master
+          - stable    
+
