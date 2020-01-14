@@ -18,7 +18,8 @@ export default function Welcome(props){
             </p>
             <p className="lead">
                 <img src={GitHub}></img>{' '}
-                <Button size="sm" href="https://github.com/szymenn/ToDoDo">View source</Button>
+                <Button size="sm" href="https://github.com/szymenn/ToDoDo-frontend">frontend</Button>{' '}
+                <Button size="sm" href="https://github.com/szymenn/ToDoDo-backend">backend</Button>
             </p>
     
         </Jumbotron>
