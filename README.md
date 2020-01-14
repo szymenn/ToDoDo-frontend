@@ -8,7 +8,6 @@ Note that the app is using [SendGrid](https://sendgrid.com/pricing/) free accoun
 ### CI/CD, deployment tools
 - Travis CI,
 - GitHub Pages
-- SonarCloud
 ### App
 - React.js
 - Redux
