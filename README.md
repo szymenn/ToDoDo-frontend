@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/szymenn/ToDoDo-frontend.svg?branch=master)](https://travis-ci.org/szymenn/ToDoDo-frontend)
 # ToDoDo-frontend
 React.js client for todo list app I made, backend code is available [here](https://github.com/szymenn/ToDoDo-backend) 
 ## Live
